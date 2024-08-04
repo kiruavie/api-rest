@@ -1,0 +1,18 @@
+// initier le projet
+npm init -y
+
+// installation des modules
+// le module express
+npm i express
+
+// typescript
+npm i -D typescript
+
+// installer le types express
+
+// routes
+Creation du dossiers routes et ajout du fichier users.ts
+
+// handlers
+Creation du dossier handler et ajout de users.ts 
+
