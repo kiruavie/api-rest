@@ -8,6 +8,6 @@ app.use("/api/users", userRouter)
 
 
 app.listen(port, ()=> {
-    console.log(`le serveur a demarré sur le port ${port} en localhost`);
+    console.log(`le serveur a demarré sur le port ${port} en http://localhost`);
     
 })
